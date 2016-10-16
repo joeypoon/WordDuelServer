@@ -14,14 +14,14 @@
     "url": "git+https://github.com/joeypoon/WordDuelServer.git"
   },
   "author": "Joey F. Poon",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/joeypoon/WordDuelServer/issues"
   },
   "homepage": "https://github.com/joeypoon/WordDuelServer#readme",
   "devDependencies": {
-    "babel-cli": "6.14.0",
-    "babel-preset-es2015": "^6.14.0",
+    "babel-cli": "6.16.0",
+    "babel-preset-es2015": "6.16.0",
     "eslint": "^3.5.0",
     "eslint-config-airbnb": "^11.1.0",
     "eslint-plugin-import": "^1.15.0",
