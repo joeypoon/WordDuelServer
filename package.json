@@ -31,7 +31,7 @@
     "nodemon": "1.10.0"
   },
   "dependencies": {
-    "WordDuelConstants": "1.0.7",
+    "WordDuelConstants": "1.0.8",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "jp-dictionary": "^1.0.1",
