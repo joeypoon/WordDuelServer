@@ -3356,9 +3356,9 @@ wide-align@^1.1.0:
   dependencies:
     string-width "^1.0.1"
 
-WordDuelConstants@1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/WordDuelConstants/-/WordDuelConstants-1.0.10.tgz#ae9f8f7f8de82898f47a44dab7550a96af618a1c"
+WordDuelConstants@1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/WordDuelConstants/-/WordDuelConstants-1.0.11.tgz#6c5bacb19f7447e153c405884f9f57f42747bf8c"
 
 wordwrap@~1.0.0:
   version "1.0.0"
