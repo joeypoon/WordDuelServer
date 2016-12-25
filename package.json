@@ -22,23 +22,23 @@
   "devDependencies": {
     "babel-cli": "6.16.0",
     "babel-preset-es2015": "6.16.0",
-    "dotenv": "^2.0.0",
-    "eslint": "^3.5.0",
-    "eslint-config-airbnb": "^11.1.0",
-    "eslint-plugin-import": "^1.15.0",
-    "eslint-plugin-jsx-a11y": "^2.2.2",
-    "eslint-plugin-react": "^6.2.2",
+    "dotenv": "2.0.0",
+    "eslint": "3.5.0",
+    "eslint-config-airbnb": "11.1.0",
+    "eslint-plugin-import": "1.15.0",
+    "eslint-plugin-jsx-a11y": "2.2.2",
+    "eslint-plugin-react": "6.2.2",
     "nodemon": "1.10.0"
   },
   "dependencies": {
     "WordDuelConstants": "1.0.14",
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "jp-dictionary": "^1.0.1",
-    "mongodb": "^2.2.10",
-    "mongoose": "^4.6.0",
-    "redis": "^2.6.2",
-    "socket.io": "^1.5.0",
-    "socket.io-redis": "^1.1.1"
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "jp-dictionary": "1.0.1",
+    "mongodb": "2.2.16",
+    "mongoose": "4.6.0",
+    "redis": "2.6.2",
+    "socket.io": "1.5.0",
+    "socket.io-redis": "1.1.1"
   }
 }
