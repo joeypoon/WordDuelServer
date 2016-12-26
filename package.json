@@ -34,7 +34,7 @@
     "WordDuelConstants": "1.0.15",
     "body-parser": "1.15.2",
     "express": "4.14.0",
-    "jp-dictionary": "1.0.1",
+    "owlbot-dictionary": "1.0.1",
     "mongodb": "2.2.16",
     "mongoose": "4.6.0",
     "redis": "2.6.2",
